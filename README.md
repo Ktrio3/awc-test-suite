@@ -6,7 +6,7 @@ If you have not already, please see the aclang repository [here](https://github.
 
 # Building the test files
 The [build.sh](./build.sh) bash script will build all of the testing scripts and benchmarking
-programs for aclang, rclang, rchibicc, and achibicc. To run the build script, you will
+programs for aclang, rclang, rchibicc, and [achibicc](https://github.com/Shadows-of-Fire/chibicc/tree/awc). To run the build script, you will
 need the load_awc_run_commands.sh file that you received while building aclang.
 
 ```bash
