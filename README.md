@@ -2,7 +2,7 @@
 
 This repository contains the scripts and programs used to test AWC-enabled Clang.
 
-If you have not already, please see the aclang repository [here](https://github.com/argwidthcounting/awc-clang).
+If you have not already, please see the aclang repository [here](https://github.com/ktrio3/awc-clang).
 
 # Building the test files
 The [build.sh](./build.sh) bash script will build all of the testing scripts and benchmarking
